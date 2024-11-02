@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abishek 
-- 👀 I’m interested in Flutter App Development
+- 👀 I’m interested in Cross Platform App Development
 - 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on Team projects
+- 💞️ I’m looking to collaborate on Flutter Team projects
 - 📫 How to reach me abishekreddy8386@gmail.com
 - 😄 Pronouns: He/Him
 

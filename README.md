@@ -1,11 +1,31 @@
-- 👋 Hi, I’m Abishek 
-- 👀 I’m interested in Cross Platform App Development
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on Flutter Team projects
-- 📫 How to reach me abishekreddy8386@gmail.com
-- 😄 Pronouns: He/Him
+ <h1 align="center">Hi 👋, I'm Abishek</h1>
 
-<!---
-abhiabby3008/abhiabby3008 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔭 I’m currently working on Cross Platform Application
+- 🌱 I’m currently learning FLutter
+- 💬 Ask me anything about Flutter 
+- 📫 How to reach me: abishekreddy8386.com
+- 😄 My Pronouns : He/Him
+- ⚡ Fun fact: I'm comming to teen
+  
+### Connect with me:
+<div id="badges">
+  <a href="https://github.com/abhiabby3008">
+    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
+  </a>
+ 
+   <a href="https://www.instagram.com/sekar_abby">
+    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+
+   <a href="https://www.linkedin.com/in/abishek-reddy-41359120b/">
+    <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin Badge"/>
+  </a>
+</div>
+
+### Languages and Tools:
+[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git,postman,figma&perline=5)](https://skillicons.dev)
+
+![Abishek Reddy's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhiabby3008&show_icons=true&theme=dark)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiabby3008&theme=dark)
+
+

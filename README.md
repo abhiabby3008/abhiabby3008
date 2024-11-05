@@ -1,11 +1,11 @@
  <h1 align="center">Hi 👋, I'm Abishek</h1>
 
 - 🔭 I’m currently working on Cross Platform Application
-- 🌱 I’m currently learning FLutter
+- 🌱 I’m currently learning Flutter
 - 💬 Ask me anything about Flutter 
 - 📫 How to reach me: abishekreddy8386.com
 - 😄 My Pronouns : He/Him
-- ⚡ Fun fact: I'm comming to teen
+- ⚡ Fun fact: I am BATMAN
   
 ### Connect with me:
 <div id="badges">
